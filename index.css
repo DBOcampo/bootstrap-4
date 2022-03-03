@@ -13,6 +13,17 @@
     text-align: right;
 }
 
+#header small {
+
+    margin-left: 10px;
+}
+
+#header .navbar-brand img {
+
+    margin-bottom: 4px;
+
+}
+
 .btn-platzi:hover {
    background-color: #7ea735;
 }
